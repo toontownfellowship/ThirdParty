@@ -1,7 +1,7 @@
 These are my notes to myself when helping new developers...
   - enigmeow
 
-install git  (http://git-scm.com/download/win) and make the git commands available to bash..
+install git  (http://git-scm.com/download/win) and make the git commands available to the windows command prompt..
 
   when you see this:   http://gyazo.com/50f6fa4ac05ea7a75c2f5275837e89d1
 
