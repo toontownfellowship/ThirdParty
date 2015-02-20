@@ -21,6 +21,8 @@ c:\>  cd repos
 
 The examples below show checkout out the team git directy if you just want to play around...
 
+It is also critical that no matter HOW you check them out, they are called "src" and "resources" and NOT "src-master" and "resources-master".  If you downloaded them as a zip from the git, rename them to just "src" and "resources"
+
 c:\repos>  git clone https://github.com/toontownfellowship/src
 
 c:\repos>  git clone https://github.com/toontownfellowship/resources
