@@ -1,7 +1,15 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+# Darwin Instructions
+## Installation
+All that is really needed for installation is double clicking on the .dmg for Panda3D, and then using the provided .sh file to install all of the Panda3D dependencies.
 
-\f0\fs24 \cf0 Ok what you do is unzip the zip file and then you put it in /Developer its that simple, if you don\'92t have that folder in / then you just right click the mac / directory then new folder and name it Developer and put it in there. }
+To install the dependencies with the shell file:
+    cd "directory of the shell file"
+    ./install.sh
+
+## Astron
+Simply move the astron file into the astron directory within your source directory. Then run the shell file in the darwin folder within the astron folder.
+    cd "directory of start-astron-cluster.sh
+    ./start-astron-cluster.sh
+    ./start-uberdog-server.sh
+    ./start-ai-server.sh
+    
