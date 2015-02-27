@@ -36,7 +36,7 @@ c:\repos>  git clone https://github.com/toontownfellowship/resources
 
 c:\repos>  git clone https://github.com/toontownfellowship/thirdparty
 
-c:\repos> cd thirdparty/windows
+c:\repos> cd thirdparty\windows
 
 c:\repos\thirdparty\windows> Panda3D-1.9.0.exe
 
