@@ -44,9 +44,11 @@ install it
 
 c:\repos\thirdparty\windows> copy astrond.exe c:\repos\src\astron
 
-c:\repos\thirdparty\windows> copy get-pip.py c:\Panda3D-1.9.0\python
+c:\repos\thirdparty\windows> cd ..
 
-c:\repos\thirdparty\windows> cd \Panda3D-1.9.0\python
+c:\repos\thirdparty> copy get-pip.py c:\Panda3D-1.9.0\python
+
+c:\repos\thirdparty> cd \Panda3D-1.9.0\python
 
 c:\Panda3D-1.9.0\python> python get-pip.py
 
