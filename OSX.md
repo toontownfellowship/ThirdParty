@@ -1,3 +1,4 @@
+Judge's note: this does not seem to be a full guide
 # Darwin Instructions
 ## Installation
 All that is really needed for installation is double clicking on the .dmg for Panda3D, and then using the provided .sh file to install all of the Panda3D dependencies.
