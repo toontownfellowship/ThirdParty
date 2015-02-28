@@ -1,9 +1,3 @@
-These are my notes to myself when helping new developers...
-  - enigmeow
-
-Edited and formatted
- - judge
-
 install [git](http://git-scm.com/download/win) and make the git commands available to the windows command prompt..
 
   when you see this: 
