@@ -6,3 +6,5 @@ echo " Installing python stuff"
 sudo pip install bcrypt pymongo 
 echo " Installing astron stuff"
 brew install mongodb
+brew install yaml-cpp
+brew install soci
